@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:E.\NIM\NIM_Android_Demo_v7.2.0_7.5.0\nim_demo\demo\libs\vivo_pushsdk_v2.3.4.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/libs/vivo_pushsdk_v2.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+repositories {
+    google()
+    jcenter()
+
+    maven {
+        url 'https://maven.fabric.io/public'
+    }
+    maven { url 'http://developer.huawei.com/repo/' }
+}
+
+dependencies {
+    classpath 'com.android.tools.build:gradle:3.2.0'
+            classpath 'com.google.gms:google-services:4.2.0'
+    classpath 'io.fabric.tools:gradle:1.31.0'
+    classpath 'com.huawei.agconnect:agcp:1.0.0.300'
+}

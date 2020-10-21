@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nrtc:videoeffect:1.0.3.1080P@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/videoeffect-1.0.3.1080P.aar/382c5491896d86f68cd20dc86b2ff7f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/videoeffect-1.0.3.1080P.aar/382c5491896d86f68cd20dc86b2ff7f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/videoeffect-1.0.3.1080P.aar/382c5491896d86f68cd20dc86b2ff7f8/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nrtc/videoeffect/1.0.3.1080P/836f60459aee9446ffbfd8e994cfb43ed6dd4e72/videoeffect-1.0.3.1080P-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nrtc/videoeffect/1.0.3.1080P/69bffa88e281b5adeb04fe6f226e81e39b2854cd/videoeffect-1.0.3.1080P-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
